@@ -1,8 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-
-First, run the development server:
 
 ```bash
 npm run dev
@@ -14,23 +10,78 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Rental Car Agency Website
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is a fully functional rental car agency web application developed using Next.js, TypeScript, and Tailwind CSS. It features a modern UI/UX design, optimized for performance and scalability.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+- **Browse Cars:** Users can browse a selection of cars available for rent.
+- **Reserve Cars:** Allows users to reserve cars.
+- **User Authentication:** Supports user authentication to keep user data secure.
+- **Responsive Design:** Ensures the website works well on both desktops and mobile devices.
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js** - The React framework for production.
+- **TypeScript** - A typed superset of JavaScript that compiles to plain JavaScript.
+- **Tailwind CSS** - A utility-first CSS framework for rapidly building custom designs.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Getting Started
 
-## Deploy on Vercel
+To get a local copy up and running follow these simple steps.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Prerequisites
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- npm
+```bash
+  npm install npm@latest -g
+  ```
+
+  ### Installation
+
+1. Clone the repo
+```bash
+   git clone https://github.com/your_username_/Project-Name.git
+```
+
+2. Install NPM packages
+```bash
+npm install
+```
+
+### Running the Development Server
+To start the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open http://localhost:3000 with your browser to see the result. You can start editing the page by modifying pages/index.tsx. The page auto-updates as you edit the file.
+
+### Deployment
+Deploying is made easy with Vercel. Just push your changes to a production branch and Vercel will handle the rest. For detailed instructions, see [Vercel Deployment Documentation]().
+
+### Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+  1. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+  2. Commit your Changes (git commit -m 'Add some AmazingFeature')
+  3. Push to the Branch (git push origin feature/AmazingFeature)
+  4. Open a Pull Request
+
+### License
+Distributed under the MIT License. See LICENSE for more information.
+
+### Contact
+LinkedIn - [https://www.linkedin.com/in/xevierturrubiartes/](https://www.linkedin.com/in/xevierturrubiartes/)
+Portfolio - [https://xevier.dev/](https://xevier.dev/)
+
+
