@@ -1,15 +1,3 @@
-
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
 # Rental Car Agency Website
 
 This project is a fully functional rental car agency web application developed using Next.js, TypeScript, and Tailwind CSS. It features a modern UI/UX design, optimized for performance and scalability.
