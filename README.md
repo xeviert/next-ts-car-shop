@@ -5,8 +5,6 @@ This project is a fully functional rental car agency web application developed u
 ## Features
 
 - **Browse Cars:** Users can browse a selection of cars available for rent.
-- **Reserve Cars:** Allows users to reserve cars.
-- **User Authentication:** Supports user authentication to keep user data secure.
 - **Responsive Design:** Ensures the website works well on both desktops and mobile devices.
 
 ## Technologies
